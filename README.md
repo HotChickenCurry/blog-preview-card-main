@@ -31,10 +31,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/frontend-mentor---blog-preview-card-solution-VNvprPeSdL](https://www.frontendmentor.io/solutions/frontend-mentor---blog-preview-card-solution-VNvprPeSdL)
 - Live Site URL: [https://hotchickencurry.github.io/blog-preview-card-main/](https://hotchickencurry.github.io/blog-preview-card-main/)
 
 ## My process
+
 I started with structuring with semantic HTML tags. Then, I set up Tailwind CSS and customized styles following the Figma design guide. I used flexbox and flex-grow to center the content vertically with a footer pinned at the bottom. I also added hover and focus states
 
 ### Built with
@@ -65,9 +66,9 @@ Next, I want to make the drop shadow dynamic so it follows the user’s cursor, 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [https://www.frontendmentor.io/solutions/frontend-mentor---blog-preview-card-solution-VNvprPeSdL](https://www.frontendmentor.io/solutions/frontend-mentor---blog-preview-card-solution-VNvprPeSdL)
+- Frontend Mentor - Frontend Mentor - [@HotChickenCurry](https://www.frontendmentor.io/profile/HotChickenCurry)
+
 
 ## Acknowledgments
 
