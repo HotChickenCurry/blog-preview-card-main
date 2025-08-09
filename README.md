@@ -16,8 +16,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 This challenge was to build a QR code component based on a provided design. The goal was to practice semantic HTML, CSS styling, including adding hover and focus state and responsive layout basics.
 
