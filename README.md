@@ -69,7 +69,6 @@ Next, I want to make the drop shadow dynamic so it follows the user’s cursor, 
 - Website - [https://www.frontendmentor.io/solutions/frontend-mentor---blog-preview-card-solution-VNvprPeSdL](https://www.frontendmentor.io/solutions/frontend-mentor---blog-preview-card-solution-VNvprPeSdL)
 - Frontend Mentor - Frontend Mentor - [@HotChickenCurry](https://www.frontendmentor.io/profile/HotChickenCurry)
 
-
 ## Acknowledgments
 
 Thanks to Frontend Mentor for the challenge and design files that helped me practice and improve my frontend skills.
